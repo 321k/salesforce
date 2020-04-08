@@ -1,1 +1,1 @@
-web: gunicorn salesforce.py
+web: gunicorn salesforce:app
